@@ -16,6 +16,8 @@ This document provides details on testing various services after running the `do
     ```
     Or open in your browser: [http://localhost:3000/users](http://localhost:3000/users)
 
+    ![Alternative Text](screenshot/03.User-microservice.png)
+
 ---
 
 ### **Product Service**
